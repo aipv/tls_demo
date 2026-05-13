@@ -1,0 +1,1 @@
+mosquitto_pub -h 192.168.0.242 -p 8883 --cafile ca.crt --cert device_0.crt --key device_0.key -t test -m hello
