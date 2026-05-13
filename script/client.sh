@@ -1,0 +1,1 @@
+openssl s_client -connect 192.168.0.242:8888 -cert device_0/device_0.crt -key device_0/device_0.key -CAfile device_0/ca.crt

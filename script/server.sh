@@ -1,0 +1,1 @@
+openssl s_server -cert server/server.crt -key server/server.key -accept 8888
